@@ -1,5 +1,8 @@
 # QRCode Skill
 
+[![SkillScan Verified](https://skillscan.dev/api/badge/qrcode-skill-Q17-gr.svg)](https://skillscan.dev/verify/qrcode-skill-Q17-gr)
+
+
 [![SkillScan Verified](https://skillscan.dev/api/badge/qrcode-skill-EBn4k6.svg)](https://skillscan.dev/verify/qrcode-skill-EBn4k6)
 
 
