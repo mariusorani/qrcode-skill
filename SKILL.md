@@ -1,6 +1,7 @@
 ---
 name: qrcode-gen
 description: Generate QR codes from text, URLs, or data. Quick CLI tool for creating scannable QR codes as PNG or terminal output.
+version: 1.0.1
 metadata:
   openclaw:
     emoji: "📱"
@@ -73,3 +74,6 @@ END:VCARD"
 - Use `-t PNG` (default) for image files
 - Larger `-s` values = bigger, easier to scan
 - Test QR codes with your phone camera before sharing
+
+---
+*Last updated: 2026-02-02*
