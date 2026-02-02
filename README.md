@@ -1,9 +1,21 @@
 # QRCode Skill
 
-[![SkillScan Verified](https://skillscan.dev/api/badge/qrcode-skill-Q17-gr.svg)](https://skillscan.dev/verify/qrcode-skill-Q17-gr)
+[![SkillScan](https://skillscan.dev/api/badge/qrcode-skill-ixUGwv)](https://skillscan.dev/verify/qrcode-skill-ixUGwv)
 
+A simple QR code generator skill for AI agents.
 
-[![SkillScan Verified](https://skillscan.dev/api/badge/qrcode-skill-EBn4k6.svg)](https://skillscan.dev/verify/qrcode-skill-EBn4k6)
+## Features
 
+- Generate QR codes from text or URLs
+- Customizable size and error correction level
+- Output as PNG or SVG
 
-[![SkillScan Verified](https://skillscan.dev/api/badge/qrcode-skill-AAD7L2.svg)](https://skillscan.dev/verify/qrcode-skill-AAD7L2)
+## Usage
+
+```bash
+qrcode generate "https://example.com" --output qr.png
+```
+
+## License
+
+MIT
